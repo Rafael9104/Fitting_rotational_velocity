@@ -1,5 +1,5 @@
 # Fitting_rotational_velocity
-This program makes the fitting of rotational velocity of NGC 6503 galaxy using the Navarro–Frenk–White (NFW) and Scalar Field Dark Matter (SFDM) density profiles.
+This program makes a simple fitting of rotational velocity of NGC 6503 galaxy using the Navarro–Frenk–White (NFW) and Scalar Field Dark Matter (SFDM) density profiles.
 
 ## Download
 If you are intended to use it download the git repository with
